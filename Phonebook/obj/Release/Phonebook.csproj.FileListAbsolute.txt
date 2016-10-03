@@ -1,0 +1,10 @@
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Release\Phonebook.exe.config
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Release\Phonebook.exe
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Release\Phonebook.pdb
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.PhoneBook.resources
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.Form2.resources
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.Properties.Resources.resources
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.csproj.GenerateResource.Cache
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.exe
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.pdb
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Release\Phonebook.csprojResolveAssemblyReference.cache

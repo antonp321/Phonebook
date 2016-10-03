@@ -1,0 +1,29 @@
+C:\Users\anto93\Desktop\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.PhoneBook.resources
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\hrist\Desktop\phoneBook-20160909T062157Z\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.PhoneBook.resources
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\anto93\Desktop\TUI e PHONEBOOKa\phoneBook\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\hrist\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.PhoneBook.resources
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\hrist\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Form2.resources
